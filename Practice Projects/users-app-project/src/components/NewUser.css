@@ -1,0 +1,21 @@
+.new-user {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 5%;
+}
+
+.new-user__field {
+    margin-bottom: 7px;
+}
+
+.new-user__field label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 3px;
+}
+
+.new-user__field input {
+    width: 100%;
+    padding: 5px;
+}
